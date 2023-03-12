@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cosmoky!!!</h1>
 <h3 align="center">A passionate developer and exploring universe as well.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1372130/screenshots/5316740/media/33bf38283f9e35602c4b37b3472317cc.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1372130/screenshots/5316740/media/33bf38283f9e35602c4b37b3472317cc.gif">
 
 - 🌱 I’m currently learning **Django and Blend4Web**
 
