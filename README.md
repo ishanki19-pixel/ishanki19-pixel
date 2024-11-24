@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer and exploring universe as well.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1372130/screenshots/5316740/media/33bf38283f9e35602c4b37b3472317cc.gif">
 
-- 🌱 I’m currently learning: **Django**
+- 🌱 I’m currently learning: **Java Development**
 
-- 💬 Ask me about: **C++ , competitive programming, python and Data Structures and Algorithms**
+- 💬 Ask me about: **C++ , competitive programming, python, Data Structures and Algorithms, Neural Networks, Java**
 
 - 📫 Reach me through:**ishankiverma4@gmail.com**
 
