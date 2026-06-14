@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishanki Verma</h1>
 
 <h3 align="center">
-Backend Engineer • Security Engineering • Cloud Migration • Java & Python
+Backend Engineer 
 </h3>
 
 <p align="center">
